@@ -66,8 +66,8 @@ Este es un sistema de gestión para farmacias desarrollado en **Java** con el pa
 </p>
 <p align="center"><b>Pantalla Principal de Facturación</b></p>
 
-
-
+## 📝 Notas
+Este proyecto es completamente personal y está en constante evolución. A medida que aprenda más sobre Java y otras tecnologías, me gustaría seguir agregando nuevas características y mejorando lo que ya está hecho.
 
 
 
